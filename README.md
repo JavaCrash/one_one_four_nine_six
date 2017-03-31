@@ -6,7 +6,8 @@ Note: This is simply my /TeamCode/src/java/org/one_one_four_nine_six folder. Thi
 
 
 V1.0 - Uploaded all the files
-AutoBeacon - Autonomous program using encoder drive, (not complete) and the ADAFruit color sensor on a servo. 
+AutoBeacon - Autonomous program using encoder drive, (not complete) and the ADAFruit color sensor on a servo.
+
 AutoBeaconRed - Same as AutoBeacon, except for the Red Side. Does not have Driving, just the Color Sensor logic.
 Ball_Ramp - A basic autonomous to go and hit the ball off the Center Vortex then go park on the ramp for blue.
 Blue_NoRamp - same as Ball_Ramp, except it doesnt go for the ramp and parks on the Center Vortex. (Or attempts to)
