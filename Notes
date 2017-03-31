@@ -1,0 +1,7 @@
+Misc:
+            Push a combination of buttons to do an autonomous loop to push the beacon buttons using the sensor.
+        Autonomous:
+        Use LinearOpMode for Autonomous instead of OpMode
+
+
+Push one button use both color sensors to see what color it is and then wait 7 seconds and push button.
