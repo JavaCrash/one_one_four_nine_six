@@ -2,6 +2,9 @@
 This is the code for the FTC MacArthur Generals team. Currently (March 31st) we are using the 2.62 beta SDK. 
 This is the first version of the code I have added to Github, so v1.0
 
+Note: This is simply my /TeamCode/src/java/org/one_one_four_nine_six folder. This is NOT the full SDK.
+
+
 V1.0 - Uploaded all the files
 AutoBeacon - Autonomous program using encoder drive, (not complete) and the ADAFruit color sensor on a servo. 
 AutoBeaconRed - Same as AutoBeacon, except for the Red Side. Does not have Driving, just the Color Sensor logic.
